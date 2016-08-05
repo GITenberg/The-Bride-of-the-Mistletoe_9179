@@ -1,0 +1,31 @@
+_repo: The-Bride-of-the-Mistletoe_9179
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allen, James Lane
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '869'
+    url: http://www.gutenberg.org/2009/agents/869
+    wikipedia: http://en.wikipedia.org/wiki/James_Lane_Allen
+description: After an initial burst of literary popularity, Kentucky-born author James
+  Lane Allen took an extended break from publishing. After the span of several years,
+  he returned with the short novel Bride of the Mistletoe, which both reflected and
+  diverged from his earlier work. Though also a romance of sorts, the tale is shot
+  through with myth and steeped in symbolism, adding weight and gravity to what otherwise
+  might be a light diversion.
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Bride of the Mistletoe
+url: http://www.gutenberg.org/ebooks/9179
