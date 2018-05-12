@@ -1,5 +1,8 @@
 _repo: The-Bride-of-the-Mistletoe_9179
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allen, James Lane
@@ -14,6 +17,8 @@ description: After an initial burst of literary popularity, Kentucky-born author
   diverged from his earlier work. Though also a romance of sorts, the tale is shot
   through with myth and steeped in symbolism, adding weight and gravity to what otherwise
   might be a light diversion.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9179#The-Bride-of-the-Mistletoe
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
